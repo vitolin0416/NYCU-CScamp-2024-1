@@ -14,7 +14,7 @@ class Bear:
         self.age = self.age + 1
     
     def change_name(self, s): # s為想要更改的名字
-
+        # Todo...
 
 # 建立名為Kumamon的物件
 Kumamon = Bear("熊本熊", 9)
