@@ -1,11 +1,13 @@
-test_1 = {
+# 考生1: 吉伊
+chii = {
     "name" : "Chiikawa",
     "color" : "white",
     "height" : 30,
     "weed" : 5
 }
 
-test_2 = {
+# 考生2: 小八貓
+hachi = {
     "name" : "Hachiware",
     "color" : "white and blue",
     "height" : 30,
