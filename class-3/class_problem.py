@@ -1,6 +1,6 @@
-#建立一個類別名為Hamster
+#建立一個類別名為 Bear
 class Bear:
-    # Hamster的預設屬性
+    # Bear 的預設屬性
     def __init__(self, name, age):
         self.name = name
         self.age = age
@@ -13,7 +13,7 @@ class Bear:
     def happy_birthday(self):
         self.age = self.age + 1
     
-    def change_name(self, s): # s為想要更改的名字
+    def change_name(self, str): # str 為想要更改的名字
         # Todo...
 
 # 建立名為Kumamon的物件
